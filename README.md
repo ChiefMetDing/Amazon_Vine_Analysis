@@ -17,11 +17,11 @@ Q3: What percentage of Vine reviews were 5 stars? What percentage of non-Vine re
 
 A3: The percentage of 5-star reviews in Vine reviews is not available, because the totel number of Vine review is 0. The percentage of 5-star reviews in non-Vine reviews is 37.45%.
 
-![image](https://user-images.githubusercontent.com/78275082/121792509-be7f3100-cbc3-11eb-98c6-5e223f5fa137.png)
+![figure_1](https://user-images.githubusercontent.com/78275082/121792667-f12a2900-cbc5-11eb-88ea-0846c7c8e5d9.png)
 
 _Figure_1: Vine Reviews_
 
-![figure_2](https://user-images.githubusercontent.com/78275082/121792517-d656b500-cbc3-11eb-800c-f8c025a7143a.png)
+![figure_2](https://user-images.githubusercontent.com/78275082/121792670-f6877380-cbc5-11eb-9f7b-4e24e6f790e1.png)
 
 _Figure_2: non-Vine Reviews_
 
